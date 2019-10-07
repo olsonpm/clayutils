@@ -29,7 +29,8 @@
     "url": "https://github.com/clay/clayutils/issues"
   },
   "files": [
-    "/dist"
+    "/dist",
+    "/lib"
   ],
   "homepage": "https://github.com/clay/clayutils#readme",
   "devDependencies": {
